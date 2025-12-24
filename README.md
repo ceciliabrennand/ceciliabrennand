@@ -1,6 +1,6 @@
 Olá, eu sou Cecília 👋
 
-{ 
+{   
    "nome": Cecília Brennand  
    "pronomes": ela/dela  
    "foco": HTML & CSS  
