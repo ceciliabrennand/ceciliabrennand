@@ -3,7 +3,7 @@ Olá, eu sou Cecília 👋
 {
 
 
-   "nome": Cecília Brennand  
+   <span style="color:lightgreen">"nome":</span> Cecília Brennand  
    "pronomes": ela/dela  
    "foco": HTML & CSS  
    "aprendendo": Javascript e lógica de programação  
