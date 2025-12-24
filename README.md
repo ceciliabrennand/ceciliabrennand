@@ -7,11 +7,11 @@ Sou formada em Publicidade e Propaganda pela UPFE e atualmente estou tentando mi
 ```json
 {
 
-"nome": Cecília Brennand  
-"pronomes": ela/dela  
-"foco": HTML & CSS  
-"aprendendo": Javascript e lógica de programação  
-"funfact": eu sou gamer (e salvei chloe no final. bae > bay)  
+"nome": "Cecília Brennand",  
+"pronomes": "ela/dela",  
+"foco": "HTML & CSS",  
+"aprendendo": "Javascript e lógica de programação",  
+"funfact": "eu sou gamer (e salvei chloe no final. bae > bay)"  
 
 }
 ```
