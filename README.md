@@ -2,15 +2,15 @@
 
 **`Desenvolvedora Front-end`**
 
-Sou formada em Publicidade e Propaganda pela UPFE e atualmente estou tentando migrar de área. Sou uma ótima comunicadora e acredito que essa minha bagagem vai me ajudar muito nessa nova jornada. 
+Sou formada em Publicidade e Propaganda pela UPFE e atualmente estou tentando migrar de área. Sou uma ótima comunicadora e acredito que essa minha bagagem vai me ajudar muito nessa nova jornada. No momento, estou interessada em ingressar no mercado SAP ABAP e estou fazendo curso online sobre.
 
 ```json
 {
 
 "nome": "Cecília Brennand",  
 "pronomes": "ela/dela",  
-"foco": "HTML & CSS",  
-"aprendendo": "Javascript e lógica de programação",  
+"foco": "Front-end, até então",  
+"aprendendo": "SAP ABAP",  
 "funfact": "eu sou gamer (e salvei chloe no final. bae > bay)"  
 
 }
