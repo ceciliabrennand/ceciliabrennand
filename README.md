@@ -10,7 +10,7 @@ Sou formada em Publicidade e Propaganda pela UPFE e atualmente estou tentando mi
 "nome": "Cecília Brennand",  
 "pronomes": "ela/dela",  
 "foco": "Front-end, até então",  
-"aprendendo": "SAP ABAP",  
+"aprendendo": "Python e SAP ABAP",  
 "funfact": "eu sou gamer (e salvei chloe no final. bae > bay)"  
 
 }
